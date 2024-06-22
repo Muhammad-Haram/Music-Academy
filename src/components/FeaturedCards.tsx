@@ -33,7 +33,7 @@ const FeaturedCards = () => {
 
                                 <div className='p-4 sm:p-6 flex flex-col text-center items-center flex-grow'>
 
-                                    <p className='text-lg sm:text-xl text-black mt-4 mb-2 dark:text-neutral-200'>{course.title}</p>
+                                    <p className='text-lg font-extrabold sm:text-lg text-black mt-4 mb-2 dark:text-neutral-200'>{course.title}</p>
 
                                     <p className='text-sm flex-grow dark:text-neutral-400 text-neutral-600'>{course.description}</p>
 
