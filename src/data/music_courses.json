@@ -1,0 +1,58 @@
+{
+    "courses" : [
+        {
+            "id": 1,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Start your journey with the piano, from basics to playing melodies.",
+            "price": 79.99,
+            "instructor": "Alice Brown",
+            "isFeatured": true
+        },
+        {
+            "id": 2,
+            "title": "Advanced Guitar Techniques",
+            "slug": "advanced-guitar-techniques",
+            "description": "Master advanced guitar techniques including fingerstyle and improvisation.",
+            "price": 129.99,
+            "instructor": "David Green",
+            "isFeatured": true
+        },
+        {
+            "id": 3,
+            "title": "Singing Masterclass",
+            "slug": "singing-masterclass",
+            "description": "Enhance your vocal skills with professional tips and exercises.",
+            "price": 99.99,
+            "instructor": "Sophie Adams",
+            "isFeatured": true
+        },
+        {
+            "id": 4,
+            "title": "Music Theory Fundamentals",
+            "slug": "music-theory-fundamentals",
+            "description": "Understand the basics of music theory to enhance your musicality.",
+            "price": 59.99,
+            "instructor": "Michael Clark",
+            "isFeatured": true
+        },
+        {
+            "id": 5,
+            "title": "Drums Essentials",
+            "slug": "drums-essentials",
+            "description": "Learn essential drumming techniques and rhythm patterns.",
+            "price": 89.99,
+            "instructor": "Daniel Evans",
+            "isFeatured": true
+        },
+        {
+            "id": 6,
+            "title": "Songwriting Workshop",
+            "slug": "songwriting-workshop",
+            "description": "Unlock your creativity and learn the art of songwriting.",
+            "price": 109.99,
+            "instructor": "Olivia White",
+            "isFeatured": true
+        }
+    ]
+}
