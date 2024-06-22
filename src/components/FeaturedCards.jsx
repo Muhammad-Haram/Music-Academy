@@ -12,7 +12,9 @@ const FeaturedCards = () => {
                 <p className='mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl'>Learn with the Best</p>
             </div>
 
-            <div></div>
+            <div className='mt-10'>
+                <div className='grid grid-cols-1 sm:grid-cols-2 '></div>
+            </div>
 
             <div className='mt-20 text-center'>
                 <Link href={"/contact"} className="bg-zinc-700 rounded-full px-4 py-2 text-white">
