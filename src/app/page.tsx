@@ -5,6 +5,7 @@ import FeaturedCards from '@/components/FeaturedCards'
 import WhyChooseUs from '@/components/WhyChooseUs'
 import MovingCards from '@/components/MovingCards'
 import UpComing from '@/components/UpComing'
+import Instructor from '@/components/Instructor'
 
 const page = () => {
   return (
@@ -14,6 +15,7 @@ const page = () => {
       <WhyChooseUs />
       <MovingCards />
       <UpComing />
+      <Instructor />
     </main>
   )
 }
