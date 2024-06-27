@@ -30,7 +30,7 @@ const Footer = () => {
                     <p className='text-neutral-400 mb-4'>music@academy.com</p >
                 </div>
             </div>
-            <p className='text-neutral-400 text-center mt-4'>©2024 Music School. All Rights Reserved</p>
+            <p className='text-neutral-400 text-center text-xs mt-4'>©2024 Music School. All Rights Reserved</p>
         </footer >
     )
 }

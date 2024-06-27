@@ -6,7 +6,6 @@ import WhyChooseUs from '@/components/WhyChooseUs'
 import MovingCards from '@/components/MovingCards'
 import UpComing from '@/components/UpComing'
 import Instructor from '@/components/Instructor'
-import Footer from '@/components/Footer'
 
 const page = () => {
   return (
@@ -17,7 +16,6 @@ const page = () => {
       <MovingCards />
       <UpComing />
       <Instructor />
-      <Footer />
     </main>
   )
 }

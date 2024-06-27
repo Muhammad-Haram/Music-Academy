@@ -20,8 +20,6 @@ function Navbar({ className }: { className?: string }) {
                         <HoveredLink href="/courses">All Courses</HoveredLink>
                         <HoveredLink href="/courses">Basic Music Theory</HoveredLink>
                         <HoveredLink href="/courses">Advacend Composition</HoveredLink>
-                        <HoveredLink href="/courses">Song Writing</HoveredLink>
-                        <HoveredLink href="/courses">Music Production</HoveredLink>
                     </div>
                 </MenuItem>
 
