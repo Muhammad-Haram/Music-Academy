@@ -59,5 +59,5 @@ const MovingCards = () => {
         </div>
     )
 }
-
+    
 export default MovingCards

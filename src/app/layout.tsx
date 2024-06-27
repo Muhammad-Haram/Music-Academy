@@ -17,6 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
+      <link rel="icon" href="./favicon.png" sizes="any" />
       <body className={inter.className}>
         <div className="relative flex items-center justify-center w-full">
           <Navbar />
