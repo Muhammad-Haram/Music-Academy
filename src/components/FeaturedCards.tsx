@@ -49,7 +49,7 @@ const FeaturedCards = () => {
             </div>
 
             <div className='mt-20 text-center'>
-                <Link href={"/contact"} className="bg-zinc-700 rounded-full px-4 py-2 text-white">
+                <Link href={"/"} className="bg-zinc-700 rounded-full px-4 py-2 text-white">
                     View All Courses
                 </Link>
             </div>

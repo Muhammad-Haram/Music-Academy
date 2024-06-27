@@ -4,6 +4,7 @@ import React from 'react'
 import FeaturedCards from '@/components/FeaturedCards'
 import WhyChooseUs from '@/components/WhyChooseUs'
 import MovingCards from '@/components/MovingCards'
+import UpComing from '@/components/UpComing'
 
 const page = () => {
   return (
@@ -12,6 +13,7 @@ const page = () => {
       <FeaturedCards />
       <WhyChooseUs />
       <MovingCards />
+      <UpComing />
     </main>
   )
 }
