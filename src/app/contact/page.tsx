@@ -9,7 +9,7 @@ const page = () => {
                     Contact Us
                 </h1>
                 <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-                    Have questions? We're here to help! Reach out to us via phone or email to learn more about our classes and how to get started on your musical journey.
+                    Have questions? Were here to help! Reach out to us via phone or email to learn more about our classes and how to get started on your musical journey.
                 </p>
             </div>
             <div className='mx-auto w-[80%] sm:w-[50%]'>
